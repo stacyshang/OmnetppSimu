@@ -1,4 +1,6 @@
 # Omnetpp for network reconfiguration v1.2
+See [paper](https://ieeexplore.ieee.org/document/8571306). 
+
 Simulation  test v1.2
 
 Using OMNeT++ 5.1.1
