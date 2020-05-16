@@ -1,12 +1,12 @@
 #
-# OMNeT++/OMNEST Makefile for simu1
+# OMNeT++/OMNEST Makefile for Simu1.2
 #
 # This file was generated with the command:
 #  opp_makemake -f --deep -O out -I.
 #
 
 # Name of target to be created (-o option)
-TARGET = simu1$(EXE_SUFFIX)
+TARGET = Simu1.2$(EXE_SUFFIX)
 
 # User interface (uncomment one) (-u option)
 USERIF_LIBS = $(ALL_ENV_LIBS) # that is, $(TKENV_LIBS) $(QTENV_LIBS) $(CMDENV_LIBS)
